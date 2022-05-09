@@ -20,7 +20,7 @@
   <p>
   This application was implemented for a task to get an internship in Master Micro Company.
   <br>
-  It is a Console app that takes 3 inputs: 
+  It is a Console app that takes inputs: 
   <ol>
   <li>
   <h4>3 Dimensions of the matrix wanted.</h4>
