@@ -1,6 +1,6 @@
 # Function-Plotter
 
-![alt text](./Images/MasterMicroTask2.jpg)
+![alt text](./Images/MasterMicroTask3.jpg)
 
 <h3>Build With : </h3>
  <ul>
@@ -20,7 +20,7 @@
   <p>
   This application was implemented for a task to get an internship in Master Micro Company.
   <br>
-  It is a Console app that takes inputs: 
+  It is a Console app that takes 3 inputs: 
   <ol>
   <li>
   <h4>3 Dimensions of the matrix wanted.</h4>
